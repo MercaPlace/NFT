@@ -13,4 +13,6 @@
 # My naranja
 ## img https://ipfs.io/ipfs/QmdjyqHLxSVEqyNCZZwpczqX4vD1NS5CSSQLfKsaNyGev8
 ## creation contract 0x2720B493364E5F7858d1E18403598219Eefc9910
+## scan https://rinkeby.etherscan.io/token/0x2720b493364e5f7858d1e18403598219eefc9910
+## NFT contract 0x2720b493364e5f7858d1e18403598219eefc9910
 
