@@ -7,6 +7,7 @@
 # My Gris
 ## [Mygris ipfs](https://ipfs.io/ipfs/QmcdhiQ9oS9TmvsPUyTCMZKgkaogJRgE6GPxUCz6oPuFoa)
 ## [Mygris.json](https://ipfs.io/ipfs/QmWRpuz8vukXoyLzYi5VZSnxQWkcnWe1UAS35bn6qh2Rm4)
+## [my gris ethe scan](https://rinkeby.etherscan.io/token/0x58dd9ed71bb9d3296bbde731c28cdf94b1b30ad5)
 ## Contract address: 0x58Dd9ed71bb9d3296BbDe731c28cdF94b1B30aD5
 ![](https://ipfs.io/ipfs/QmcdhiQ9oS9TmvsPUyTCMZKgkaogJRgE6GPxUCz6oPuFoa)
 
